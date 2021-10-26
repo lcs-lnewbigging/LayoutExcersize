@@ -11,6 +11,8 @@
 		FE929C6927287D6300E6A79E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE929C6827287D6300E6A79E /* ContentView.swift */; };
 		FE929C6B27287D7300E6A79E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE929C6A27287D7300E6A79E /* Assets.xcassets */; };
 		FE929C6E27287D7300E6A79E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE929C6D27287D7300E6A79E /* Preview Assets.xcassets */; };
+		FE929C76272882B100E6A79E /* LayoutExcersizeAppTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE929C75272882B100E6A79E /* LayoutExcersizeAppTwo.swift */; };
+		FE929C782728899E00E6A79E /* LayoutExcersizeAppThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE929C772728899E00E6A79E /* LayoutExcersizeAppThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FE929C6827287D6300E6A79E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FE929C6A27287D7300E6A79E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE929C6D27287D7300E6A79E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FE929C75272882B100E6A79E /* LayoutExcersizeAppTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutExcersizeAppTwo.swift; sourceTree = "<group>"; };
+		FE929C772728899E00E6A79E /* LayoutExcersizeAppThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = LayoutExcersizeAppThree.swift; path = ../../../LayoutExcersizeAppThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 			isa = PBXGroup;
 			children = (
 				FE929C6827287D6300E6A79E /* ContentView.swift */,
+				FE929C75272882B100E6A79E /* LayoutExcersizeAppTwo.swift */,
+				FE929C772728899E00E6A79E /* LayoutExcersizeAppThree.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -146,7 +152,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				FE929C6927287D6300E6A79E /* ContentView.swift in Sources */,
+				FE929C782728899E00E6A79E /* LayoutExcersizeAppThree.swift in Sources */,
 				FE929C6727287D6300E6A79E /* LayoutExcersizeApp.swift in Sources */,
+				FE929C76272882B100E6A79E /* LayoutExcersizeAppTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
